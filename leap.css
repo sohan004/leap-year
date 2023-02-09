@@ -1,0 +1,30 @@
+#box-1{
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    padding: 10px;
+}
+#sub{
+    font-size: 16px;
+    padding: 10px 19px;
+    background-color: burlywood;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+#sub:hover{
+    transform: scale(1.2);
+    background-color: rgb(177, 144, 102);
+}
+body{
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+}
+img{
+    width: 50px;
+    margin-top: 30px;
+}
