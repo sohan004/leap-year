@@ -17,5 +17,4 @@ document.getElementById('sub').addEventListener('click', function(){
     const yearRslt = lpYear(year);
     const result = document.getElementById('result');
     result.innerText = yearRslt;
-    box1.value = '';
 })
